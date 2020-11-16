@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace practice_lecture7
 {
@@ -8,7 +9,7 @@ namespace practice_lecture7
         {
             int[] array = CreateArray();
             ChangeArray();
- 
+            MaxValueFinder();
         }
 
         private static int[] CreateArray() {
@@ -30,6 +31,25 @@ namespace practice_lecture7
             {
                 Console.WriteLine(ArrayOfObjects[i]);
             }
+        }
+
+        static void MaxValueFinder() {
+            Random random = new Random();
+
+            int[] array = new int[13];
+
+            for (int i = 0; i < 13; i++)
+            {
+                array[i] = random.Next(0, 10);
+            }
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.WriteLine(array[i]);
+            }
+
+            int maxValue = array.Max();
+            Console.WriteLine("Макимальное значение: " + maxValue);
         }
 
     }
