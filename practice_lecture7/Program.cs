@@ -10,6 +10,7 @@ namespace practice_lecture7
             int[] array = CreateArray();
             ChangeArray();
             MaxValueFinder();
+            BoxingUnboxing();
         }
 
         private static int[] CreateArray() {
@@ -52,5 +53,14 @@ namespace practice_lecture7
             Console.WriteLine("Макимальное значение: " + maxValue);
         }
 
+        static void BoxingUnboxing() {
+            
+            short short1 = 123;
+            SByte  sbyte1 = (sbyte)short1;
+
+            System.SByte asd = sbyte1;
+
+            Console.WriteLine(asd + " " + asd.GetType());       
+        }
     }
 }
