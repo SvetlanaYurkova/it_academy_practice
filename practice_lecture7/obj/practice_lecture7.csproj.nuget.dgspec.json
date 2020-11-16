@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sveta\\Source\\Repos\\SvetlanaYurkova\\it_academy_practice\\practice_lecture7\\practice_lecture7.csproj": {}
+    "C:\\Users\\Sveta\\source\\repos\\SvetlanaYurkova\\it_academy_practice\\practice_lecture7\\practice_lecture7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sveta\\Source\\Repos\\SvetlanaYurkova\\it_academy_practice\\practice_lecture7\\practice_lecture7.csproj": {
+    "C:\\Users\\Sveta\\source\\repos\\SvetlanaYurkova\\it_academy_practice\\practice_lecture7\\practice_lecture7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sveta\\Source\\Repos\\SvetlanaYurkova\\it_academy_practice\\practice_lecture7\\practice_lecture7.csproj",
+        "projectUniqueName": "C:\\Users\\Sveta\\source\\repos\\SvetlanaYurkova\\it_academy_practice\\practice_lecture7\\practice_lecture7.csproj",
         "projectName": "practice_lecture7",
-        "projectPath": "C:\\Users\\Sveta\\Source\\Repos\\SvetlanaYurkova\\it_academy_practice\\practice_lecture7\\practice_lecture7.csproj",
+        "projectPath": "C:\\Users\\Sveta\\source\\repos\\SvetlanaYurkova\\it_academy_practice\\practice_lecture7\\practice_lecture7.csproj",
         "packagesPath": "C:\\Users\\Sveta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sveta\\Source\\Repos\\SvetlanaYurkova\\it_academy_practice\\practice_lecture7\\obj\\",
+        "outputPath": "C:\\Users\\Sveta\\source\\repos\\SvetlanaYurkova\\it_academy_practice\\practice_lecture7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
