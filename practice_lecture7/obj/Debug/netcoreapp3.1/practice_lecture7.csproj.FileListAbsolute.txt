@@ -1,0 +1,13 @@
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\bin\Debug\netcoreapp3.1\practice_lecture7.exe
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\bin\Debug\netcoreapp3.1\practice_lecture7.deps.json
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\bin\Debug\netcoreapp3.1\practice_lecture7.runtimeconfig.json
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\bin\Debug\netcoreapp3.1\practice_lecture7.runtimeconfig.dev.json
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\bin\Debug\netcoreapp3.1\practice_lecture7.dll
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\bin\Debug\netcoreapp3.1\practice_lecture7.pdb
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\obj\Debug\netcoreapp3.1\practice_lecture7.AssemblyInfoInputs.cache
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\obj\Debug\netcoreapp3.1\practice_lecture7.AssemblyInfo.cs
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\obj\Debug\netcoreapp3.1\practice_lecture7.csproj.CoreCompileInputs.cache
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\obj\Debug\netcoreapp3.1\practice_lecture7.dll
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\obj\Debug\netcoreapp3.1\practice_lecture7.pdb
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\obj\Debug\netcoreapp3.1\practice_lecture7.genruntimeconfig.cache
+C:\Users\Sveta\Source\Repos\SvetlanaYurkova\it_academy_practice\practice_lecture7\obj\Debug\netcoreapp3.1\practice_lecture7.csprojAssemblyReference.cache
