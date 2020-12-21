@@ -9,7 +9,7 @@ namespace task_1
         static int Id;
         public UniqueItem()
         {
-            Id = Id++;
+            Id = Id+1;
         }
 
         public UniqueItem(int id)
